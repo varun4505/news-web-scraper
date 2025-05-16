@@ -71,6 +71,27 @@ NEWS_SOURCES = [
         "supports_direct_search": False,
         "region": "international"
     },
+    {
+        "name": "AFP",
+        "rss_url": "https://www.afp.com/en/rss",
+        "base_url": "https://www.afp.com",
+        "supports_direct_search": False,
+        "region": "international"
+    },
+    {
+        "name": "Outlook",
+        "rss_url": "https://www.outlookindia.com/rss",
+        "base_url": "https://www.outlookindia.com",
+        "supports_direct_search": False,
+        "region": "indian"
+    },
+    {
+        "name": "The Week",
+        "rss_url": "https://www.theweek.in/rss/home.xml",
+        "base_url": "https://www.theweek.in",
+        "supports_direct_search": False,
+        "region": "indian"
+    },
     # Indian National Sources
     {
         "name": "The Hindu",
@@ -90,6 +111,111 @@ NEWS_SOURCES = [
         "name": "Times of India",
         "rss_url": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
         "base_url": "https://timesofindia.indiatimes.com",
+        "supports_direct_search": False,
+        "region": "indian"
+    },
+    {
+        "name": "The New Indian Express",
+        "rss_url": "https://www.newindianexpress.com/feeds/rss/",
+        "base_url": "https://www.newindianexpress.com",
+        "supports_direct_search": False,
+        "region": "indian"
+    },
+    {
+        "name": "PTI",
+        "rss_url": "https://www.ptinews.com/rss/rss.aspx?id=1",
+        "base_url": "https://www.ptinews.com",
+        "supports_direct_search": False,
+        "region": "indian"
+    },
+    {
+        "name": "UNI",
+        "rss_url": "http://www.uniindia.com/rss-feeds/news/india/",
+        "base_url": "http://www.uniindia.com",
+        "supports_direct_search": False,
+        "region": "indian"
+    },
+    {
+        "name": "IANS",
+        "rss_url": "https://ians.in/feeds/latest-news/",
+        "base_url": "https://ians.in",
+        "supports_direct_search": False,
+        "region": "indian"
+    },
+    {
+        "name": "ANI",
+        "rss_url": "https://aninews.in/rss/latest-news/",
+        "base_url": "https://aninews.in",
+        "supports_direct_search": False,
+        "region": "indian"
+    },
+    {
+        "name": "Business Today",
+        "rss_url": "https://www.businesstoday.in/rssfeeds/?id=1",
+        "base_url": "https://www.businesstoday.in",
+        "supports_direct_search": False,
+        "region": "indian"
+    },
+    {
+        "name": "India Today",
+        "rss_url": "https://www.indiatoday.in/rss/1206514",
+        "base_url": "https://www.indiatoday.in",
+        "supports_direct_search": False,
+        "region": "indian"
+    },
+    {
+        "name": "Business World",
+        "rss_url": "http://www.businessworld.in/rss-feed/",
+        "base_url": "http://www.businessworld.in",
+        "supports_direct_search": False,
+        "region": "indian"
+    },
+    {
+        "name": "Economic Times",
+        "rss_url": "https://economictimes.indiatimes.com/rssfeedsdefault.cms",
+        "base_url": "https://economictimes.indiatimes.com",
+        "supports_direct_search": False,
+        "region": "indian"
+    },
+    {
+        "name": "HT Mint",
+        "rss_url": "https://www.livemint.com/rss/news",
+        "base_url": "https://www.livemint.com",
+        "supports_direct_search": False,
+        "region": "indian"
+    },
+    {
+        "name": "Business Standard",
+        "rss_url": "https://www.business-standard.com/rss/home_page_top_stories.rss",
+        "base_url": "https://www.business-standard.com",
+        "supports_direct_search": False,
+        "region": "indian"
+    },
+    {
+        "name": "Financial Express",
+        "rss_url": "https://www.financialexpress.com/feed/",
+        "base_url": "https://www.financialexpress.com",
+        "supports_direct_search": False,
+        "region": "indian"
+    },
+    {
+        "name": "Money Control",
+        "rss_url": "https://www.moneycontrol.com/rss/latestnews.xml",
+        "base_url": "https://www.moneycontrol.com",
+        "supports_direct_search": False,
+        "region": "indian"
+    },
+    {
+        "name": "Your Story",
+        "rss_url": "https://yourstory.com/feed",
+        "base_url": "https://yourstory.com",
+        "supports_direct_search": False,
+        "region": "indian"
+    },
+    {
+        "name": "Inc42",
+        "rss_url": "https://inc42.com/feed/",
+        "base_url": "https://inc42.com",
         "supports_direct_search": False,
         "region": "indian"
     },
@@ -128,6 +254,55 @@ NEWS_SOURCES = [
         "base_url": "https://www.eenadu.net",
         "supports_direct_search": False,
         "region": "telangana-ap"
+    },
+    {
+        "name": "Andhra Jyothi",
+        "rss_url": "https://www.andhrajyothy.com/rss/rss.aspx",
+        "base_url": "https://www.andhrajyothy.com",
+        "supports_direct_search": False,
+        "region": "telangana-ap"
+    },
+    {
+        "name": "Namaste Telangana",
+        "rss_url": "https://ntnews.com/rss-feed",
+        "base_url": "https://ntnews.com",
+        "supports_direct_search": False,
+        "region": "telangana-ap"
+    },
+    {
+        "name": "Prajashakti",
+        "rss_url": "http://www.prajashakti.com/rss/rss.xml",
+        "base_url": "http://www.prajashakti.com",
+        "supports_direct_search": False,
+        "region": "telangana-ap"
+    },
+    {
+        "name": "The Metro India",
+        "rss_url": "https://themetro.in/feed/",
+        "base_url": "https://themetro.in",
+        "supports_direct_search": False,
+        "region": "telangana-ap"
+    },
+    {
+        "name": "The Pioneer",
+        "rss_url": "https://www.dailypioneer.com/rss/top-stories.xml",
+        "base_url": "https://www.dailypioneer.com",
+        "supports_direct_search": False,
+        "region": "indian"
+    },
+    {
+        "name": "Bizz Buzz",
+        "rss_url": "https://www.bizzbuzz.news/feed/",
+        "base_url": "https://www.bizzbuzz.news",
+        "supports_direct_search": False,
+        "region": "indian"
+    },
+    {
+        "name": "Free Press Journal",
+        "rss_url": "https://www.freepressjournal.in/cmlink/1.0.671503",
+        "base_url": "https://www.freepressjournal.in",
+        "supports_direct_search": False,
+        "region": "indian"
     }
 ]
 
